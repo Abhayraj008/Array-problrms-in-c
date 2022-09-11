@@ -1,0 +1,1 @@
+# Array-problrms-in-c
